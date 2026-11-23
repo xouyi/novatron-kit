@@ -1,6 +1,6 @@
 {
   "name": "@novatron/kit",
-  "version": "1.0.0",
+  "version": "1.2.0",
   "private": true,
   "type": "module",
   "description": "Shared Nuxt layer for Novatron Robotics team apps: HQ sign-in, access guards, HQ API client and database tooling.",
